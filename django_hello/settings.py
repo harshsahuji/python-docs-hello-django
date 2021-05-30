@@ -25,7 +25,7 @@ SECRET_KEY = '12345'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [os.environ['harshsahu.me']] if 'harshsahu.me' in os.environ else []
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
