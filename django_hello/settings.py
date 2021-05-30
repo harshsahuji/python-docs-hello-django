@@ -25,7 +25,7 @@ SECRET_KEY = '12345'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['harshsahu.me','localhost']
+ALLOWED_HOSTS = ['52.173.149.254','localhost']
 
 
 # Application definition
